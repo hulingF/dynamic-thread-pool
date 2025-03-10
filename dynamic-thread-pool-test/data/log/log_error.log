@@ -1,0 +1,2 @@
+25-03-10.11:46:34.629 [redisson-3-12   ] WARN  DynamicThreadPoolService - 核心线程数不能大于最大线程数! corePoolSize:100 maxPoolSize:50
+25-03-10.11:49:15.062 [redisson-3-12   ] WARN  DynamicThreadPoolService - 核心线程数不能大于最大线程数! corePoolSize:100 maxPoolSize:50
